@@ -1,0 +1,4 @@
+
+This script (Dockerfile.build)  originally mentioned https://github.com/rethinkdb/rethinkdb-dockerfiles/issues/32#issuecomment-297428635 , so am just playing with it
+
+The Dockerfile, originally from https://github.com/mterron/rethinkdb/blob/master/Dockerfile
