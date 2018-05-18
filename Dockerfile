@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.7
 
 LABEL maintainer="Miguel Terron <miguel.a.terron@gmail.com>"
 
